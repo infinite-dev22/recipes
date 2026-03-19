@@ -13,6 +13,7 @@
 				"soname(libspeechd.so.2(x86_64))"
 			],
 			"depends": [
+				"binary(gamescope-session-plus)",
 				"binary(powerstation)",
 				"interpreter(/usr/lib/ld-linux-x86-64.so.2(x86_64))",
 				"soname(ld-linux-x86-64.so.2(x86_64))",

@@ -19,6 +19,7 @@ description : |
 license     : MIT
 networking  : true
 rundeps     :
+    - binary(gamescope-session-plus)
     - binary(powerstation)
 builddeps   :
     - binary(cmake)

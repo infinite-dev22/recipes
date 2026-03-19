@@ -9,7 +9,7 @@ diff -Npur steamos-manager-v26.0.1.orig/data/system/reset-oneshot-boot.conf stea
 +ExecStartPre=-rm /etc/sddm.conf.d/zzt-aerynos-temp-login.conf
 diff -Npur steamos-manager-v26.0.1.orig/steamos-manager/src/session.rs steamos-manager-v26.0.1/steamos-manager/src/session.rs
 --- steamos-manager-v26.0.1.orig/steamos-manager/src/session.rs	2026-03-05 05:25:34.000000000 +0100
-+++ steamos-manager-v26.0.1/steamos-manager/src/session.rs	2026-03-19 07:54:15.420718314 +0100
++++ steamos-manager-v26.0.1/steamos-manager/src/session.rs	2026-03-19 08:15:45.160356577 +0100
 @@ -30,9 +30,9 @@ use crate::systemd::{ActiveState, JobMod
  use crate::{Service, path};
  

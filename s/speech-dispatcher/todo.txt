@@ -1,0 +1,16 @@
+Deal with ETC files:
+
+│A│ × /etc/speech-dispatcher/clients/emacs.conf (non /usr/ file)
+│A│ × /etc/speech-dispatcher/modules/dtk-generic.conf (non /usr/ file)
+│A│ × /etc/speech-dispatcher/modules/epos-generic.conf (non /usr/ file)
+│A│ × /etc/speech-dispatcher/modules/espeak-ng-mbrola-generic.conf (non /usr/ file)
+│A│ × /etc/speech-dispatcher/modules/espeak-ng-mbrola.conf (non /usr/ file)
+│A│ × /etc/speech-dispatcher/modules/espeak-ng.conf (non /usr/ file)
+│A│ × /etc/speech-dispatcher/modules/festival.conf (non /usr/ file)
+│A│ × /etc/speech-dispatcher/modules/llia_phon-generic.conf (non /usr/ file)
+│A│ × /etc/speech-dispatcher/modules/mary-generic.conf (non /usr/ file)
+│A│ × /etc/speech-dispatcher/modules/mimic3-generic.conf (non /usr/ file)
+│A│ × /etc/speech-dispatcher/modules/openjtalk.conf (non /usr/ file)
+│A│ × /etc/speech-dispatcher/modules/swift-generic.conf (non /usr/ file)
+│A│ × /etc/speech-dispatcher/speechd.conf (non /usr/ file)
+

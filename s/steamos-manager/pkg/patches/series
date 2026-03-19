@@ -1,3 +1,4 @@
+aerynos/0001-session.patch
 # https://github.com/honjow/steamos-manager/tree/dev
 honjow/0001-power-Use-sys-class-power_supply-for-acpi_sb-battery.patch
 honjow/0002-gpu-implement-automatic-GPU-type-detection-as-fallba.patch

@@ -27,7 +27,7 @@
 			"files": [
 				"/usr/bin/steamosctl",
 				"/usr/lib/steamos-manager",
-				"/usr/lib/systemd/system/sddm.service.d",
+				"/usr/lib/systemd/system/sddm.service.d/reset-oneshot-boot.conf",
 				"/usr/lib/systemd/system/steamos-manager.service",
 				"/usr/lib/systemd/user/steamos-manager-configure-cecd.service",
 				"/usr/lib/systemd/user/steamos-manager-session-cleanup.service",

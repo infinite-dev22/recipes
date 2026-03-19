@@ -46,4 +46,4 @@ build       : |
 install     : |
     %make_install
     rm %(installroot)%(libdir)/systemd/user/orca.service # not used by anyone apparently, steamOS specific(?)
-    rm %(installroot)%(libdir)/systemd/system/sddm.service.d/reset-oneshot-boot.conf # steamOS specific
+    #rm %(installroot)%(libdir)/systemd/system/sddm.service.d/reset-oneshot-boot.conf # steamOS specific

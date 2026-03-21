@@ -1,5 +1,6 @@
 aerynos/0001-session.patch
 aerynos/0002-gamescope-session-plus.patch
+aerynos/0003-strip-out-wifi.patch
 # https://github.com/honjow/steamos-manager/tree/dev
 honjow/0001-power-Use-sys-class-power_supply-for-acpi_sb-battery.patch
 honjow/0002-gpu-implement-automatic-GPU-type-detection-as-fallba.patch
